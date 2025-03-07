@@ -1,0 +1,59 @@
+[02:39:07] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[02:39:07] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[02:39:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:39:14] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:39:16] [main/INFO]: Loaded 7 recipes
+[02:39:16] [main/INFO]: Loaded 1271 advancements
+[02:39:17] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:39:17] [Server thread/INFO]: Loading properties
+[02:39:17] [Server thread/INFO]: Default game type: SURVIVAL
+[02:39:17] [Server thread/INFO]: Generating keypair
+[02:39:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:39:17] [Server thread/INFO]: Using epoll channel type
+[02:39:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:39:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:39:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:39:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:39:17] [Server thread/INFO]: Preparing level "world"
+[02:39:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:39:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:39:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:39:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:39:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:39:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:39:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:39:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:39:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:39:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:39:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:39:25] [Worker-Main-1/INFO]: Preparing spawn area: 35%
+[02:39:26] [Server thread/INFO]: Time elapsed: 5527 ms
+[02:39:26] [Server thread/INFO]: Done (8.627s)! For help, type "help"
+[02:42:03] [Server thread/INFO]: Jose_Dev[/127.43.62.8:54713] logged in with entity id 247 at (10.835144235955113, 64.0, 138.26748770081895)
+[02:42:03] [Server thread/INFO]: Jose_Dev joined the game
+[02:44:42] [Server thread/INFO]: SocZiro21[/127.92.175.141:49043] logged in with entity id 570 at (9.5, 65.0, 152.5)
+[02:44:42] [Server thread/INFO]: SocZiro21 joined the game
+[02:45:05] [Server thread/INFO]: [Not Secure] <SocZiro21> KLK MI LOCO
+[02:45:17] [Server thread/INFO]: [Not Secure] <Jose_Dev> todo bien todo correcto y yo que me alegro
+[02:45:18] [Server thread/INFO]: [Not Secure] <SocZiro21> uff un poco lag
+[02:45:19] [Server thread/INFO]: [Not Secure] <SocZiro21> pera
+[02:45:25] [Server thread/INFO]: [Not Secure] <Jose_Dev> voy fluido
+[02:45:30] [Server thread/INFO]: [Not Secure] <SocZiro21> 45 fps yo
+[02:45:32] [Server thread/INFO]: [Not Secure] <Jose_Dev> haz lo que hice en el video
+[02:45:34] [Server thread/INFO]: [Not Secure] <Jose_Dev> 50
+[02:45:36] [Server thread/INFO]: [Not Secure] <Jose_Dev> 60
+[02:45:46] [Server thread/INFO]: [Not Secure] <Jose_Dev> bajate a 8 chunks
+[02:46:04] [Server thread/INFO]: [Not Secure] <Jose_Dev> y desactivate el vsyn
+[02:46:43] [Server thread/INFO]: Jose_Dev has made the advancement [Stone Age]
+[02:47:01] [Server thread/INFO]: Jose_Dev has made the advancement [Monster Hunter]
+[02:47:43] [Server thread/INFO]: [Not Secure] <SocZiro21> llevas una flecha en toda la nuca bro
+[02:47:49] [Server thread/INFO]: [Not Secure] <Jose_Dev> jajsa
+[02:48:19] [Server thread/INFO]: Jose_Dev has made the advancement [Getting an Upgrade]
+[02:48:25] [Server thread/INFO]: [Not Secure] <SocZiro21> dos corazones
+[02:48:33] [Server thread/INFO]: [Not Secure] <Jose_Dev> bro
+[02:48:40] [Server thread/INFO]: [Not Secure] <SocZiro21> q fue bro
+[02:48:57] [Server thread/INFO]: [Not Secure] <SocZiro21> que coño
